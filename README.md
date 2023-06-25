@@ -6,7 +6,7 @@ This package includes our popular software testing books data, our manual inspec
 To run LDA, create a new virtual environment in Python 3.9 or newer and install the requirements from requirements.txt.
 - `ngrams.py` can be used to output the top ngrams (uni, bi, tri) of the corpus. 
 - `preprocesing.py` is used to apply preprocessing before the application of LDA.
-- `lda.gensim.py` includes our implementation of LDA. The book chapters to be analysed should be included in the 'data' 
+- `lda_gensim.py` includes our implementation of LDA. The book chapters to be analysed should be included in the 'data' 
 folder. By default, the book chapters need to be in PDF format.
 
 
