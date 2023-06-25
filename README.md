@@ -1,4 +1,4 @@
-# Popular Software Testing Books Analysis
+# Replication Package for Topic Analysis on Popular Software Testing Books (CSE3000 TU Delft)
 This package includes our popular software testing books data, our manual inspection data and LDA implementation for topic modelling. 
 
 
